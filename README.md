@@ -1,2 +1,2 @@
 # curriculoonline
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d55cd93c-38be-40ed-b895-826e1807dbb2/deploy-status)](https://app.netlify.com/sites/minhaapresentacaoweb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d65d101f-1ddd-42e3-ad71-198548360359/deploy-status)](https://app.netlify.com/sites/minhaapresentacaoweb/deploys)
